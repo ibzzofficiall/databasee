@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": [
+    {
+      "username": "vinzzgood",
+      "password": "1",
+      "role": "register",
+      "lock": "reg"
+    },
+    {
+      "username": "vinzzoffc",
+      "password": "1",
+      "role": "developer",
+      "lock": "dev"
+    },
+    {
+      "username": "vinzz",
+      "password": "1",
+      "role": "admin",
+      "lock": true
+    },
+    {
+      "username": "vin",
+      "password": "1",
+      "role": "user",
+      "lock": false
+    }
+  ]
+}
