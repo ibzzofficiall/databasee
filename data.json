@@ -2,25 +2,25 @@
   "success": true,
   "data": [
     {
-      "username": "vinzzgood",
+      "username": "IbzzOffc",
       "password": "1",
       "role": "register",
       "lock": "reg"
     },
     {
-      "username": "vinzzoffc",
+      "username": "Zero",
       "password": "1",
-      "role": "developer",
-      "lock": "dev"
+      "role": "register",
+      "lock": "reg"
     },
     {
-      "username": "vinzz",
+      "username": "Ibzz",
       "password": "1",
       "role": "admin",
       "lock": true
     },
     {
-      "username": "vin",
+      "username": "Ibzzz",
       "password": "1",
       "role": "user",
       "lock": false
