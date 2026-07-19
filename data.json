@@ -18,7 +18,13 @@
       "password": "1",
       "role": "admin",
       "lock": true
-    },
+    },  
+    {
+      "username": "zerr",
+      "password": "1",
+      "role": "admin",
+      "lock": true
+    }, 
     {
       "username": "Ibzzz",
       "password": "1",
